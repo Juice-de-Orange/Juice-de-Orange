@@ -8,6 +8,7 @@ verified and what hasn't.
 
 | Project | What it is |
 |---|---|
+| [gameserver-stacks](https://github.com/Juice-de-Orange/gameserver-stacks) | Game servers on one Docker host from a web dashboard: Minecraft, Factorio, Valheim, Project Zomboid, Arma Reforger, Vintage Story, Avorion. |
 | [corkspace](https://github.com/Juice-de-Orange/corkspace) · [live demo](https://corkspace-demo.maxlworks.com) | An infinite pinboard you host yourself: notes, documents, checklists, images and link cards, tied together with red threads. |
 | [Custode](https://github.com/Juice-de-Orange/Custode) · [live demo](https://custode-demo.maxlworks.com) | Household platform: recipes, meal plan, shopping, calendars with CalDAV, chores, an encrypted vault — GDPR built in. |
 | [framescout](https://github.com/Juice-de-Orange/framescout) | Wildlife-camera pipeline: best frame per clip, MegaDetector + species classifier, MQTT/webhook out. |
