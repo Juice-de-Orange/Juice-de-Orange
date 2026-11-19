@@ -1,4 +1,4 @@
-### Hi, I'm OrangeJuice 🍊
+### Hi,
 
 I build self-hosted software that I run myself — at home, on a small VPS and on a few odd devices —
 and publish it once it works for someone who isn't me. Every project says plainly what has been
